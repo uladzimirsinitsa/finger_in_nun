@@ -1,3 +1,7 @@
 .env
 env
 *.pyc
+__pycache__
+log.txt
+workspace
+office2john.pyc
